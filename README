@@ -1,0 +1,5 @@
+Lightning component for rendering a SVG Icon, like those listed in the Lightning Design System.
+
+Example usage:
+
+<c:svgIcon class="slds-icon icon__svg slds-icon-action-new" svgPath="action-sprite/svg/symbols.svg#new" />
